@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>DEFAULTAPP</id>
+    <version>CHANGE</version>
+    <title>DEFAULTAPP (Install)</title>
+    <authors>CHANGE</authors>
+    <projectUrl>CHANGE</projectUrl>
+    <tags>DEFAULTAPP SPACE_SEPARATED</tags>
+    <summary>_</summary>
+    <description>CHANGE</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
