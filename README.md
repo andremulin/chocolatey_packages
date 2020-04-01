@@ -4,10 +4,10 @@ Project to share some Chocolatey Packages
 The packages folder structure:
 - tools
   - chocolateybeforemodify.ps1
-  - chocolateyinstall.ps1
-  - chocolateyunistall.ps1
+  - chocolateyinstall.ps1 (update field DEFAULTAPP and CHANGE)
+  - chocolateyunistall.ps1 (update field DEFAULTAPP and CHANGE)
 - _todo
-- {packagename}.nuspec
+- {packagename}.nuspec (update field DEFAULTAPP and CHANGE)
 - readme.md
 
 The software executable must be saved in the tools folder.
