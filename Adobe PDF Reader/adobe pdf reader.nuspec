@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>Adobe_PDF_Reader</id>
+    <version>19.00</version>
+    <title>Adobe PDF Reader (Install)</title>
+    <authors>John Doe</authors>
+    <projectUrl>https://get.adobe.com/br/reader</projectUrl>
+    <tags>Adobe PDF Reader SPACE_SEPARATED</tags>
+    <summary>_</summary>
+    <description>Okay</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
